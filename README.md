@@ -1,4 +1,4 @@
-In the ongoing project, I track my nutrition intake of the different foodgroups recommended by "the Daily Dozen" of Dr. Greger. 
+In this ongoing project, I track my nutrition intake of the different foodgroups recommended by "the Daily Dozen" of Dr. Greger. 
 
 I have cleaned and wrangled the data, done a first EDA and answered a first few questions such as: 
   - How does the intake of a single foodgroup evolve over time (percentage-wise)?
