@@ -1,6 +1,6 @@
 In this ongoing project, I track my nutrition intake of the different foodgroups recommended by "the Daily Dozen" of Dr. Greger. 
 
-I have cleaned and wrangled the data, done a first EDA and answered a first few questions such as: 
+I have cleaned the data, done a first EDA and answered a first few questions such as: 
   - How does the intake of a single foodgroup evolve over time (percentage-wise)?
   - What is the influence of day of week on single foodgroup intake?
 
